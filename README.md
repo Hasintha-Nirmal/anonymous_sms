@@ -1,5 +1,5 @@
 # anonymus_sms
-Author - Venkateshu Dudyala
+Author - Hasintha Nirmal
 
 
 
@@ -16,11 +16,7 @@ Author - Venkateshu Dudyala
 
 Social media handle
 
-Instagram page: @cyber.security.unlocked
-
-Facebook page : @venkey.rouge 
-
-github    : @MR-ROGUE
+github    : @Hasintha-Nirmal
 
 
 
@@ -28,7 +24,7 @@ Installation && Build dependencies :
  
 
 
-1. git clone https://github.com/venkateshdudyala/anonymus_sms 
+1. git clone https://github.com/Hasintha-Nirmal/anonymus_sms 
 
 
 2. sudo bash rq.sh
@@ -40,7 +36,7 @@ Installation && Build dependencies :
 Usage:-
 
 
-Enter your victim number with country code (eg. +91**********)
+Enter your victim number with country code (eg. +94**********)
 
 You can track your sms weather sent or not it will used in 2nd option
 
@@ -49,4 +45,4 @@ Notice : only one sms will be allow to send per day
 
 DONATE 
 
-PAYPAL : paypal.me/venkeyrogue
+PAYPAL : paypal.me/HasinthaNirmal

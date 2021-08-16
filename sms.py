@@ -1,5 +1,5 @@
 import requests, os, sys, time
-print("\033[96mCoded by github.com/venkateshdudyala \033[0m ")
+print("\033[96mCoded by github.com/Hasintha-Nirmal \033[0m ")
 print("\033[93m Version 2.0 \033[0m")
 print("\033[91m Checking dependencies... \033[0m")
 time.sleep(2)
@@ -35,7 +35,7 @@ def status() :
   os.system(f"curl https://textbelt.com/status/{textID}")
 os.system("clear")
 os.system("toilet -f smblock --filter border:metal 'ANONYMOUS_SMS' ")
-print("\033[96mCoded by - MR. ROGUE")
-print("Instagram - @cyber_king_of_internet")
+print("\033[96mCoded by - Hasintha-Nirmal")
+print("Telegram - @Hasintha_Nirmal")
 menu()
 control()
